@@ -1,0 +1,227 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>PORTFOLIO</title>
+        <style>
+            img{
+                border-radius: 8px;
+            }
+                
+        </style>
+        <style>
+            h1{
+                text-shadow: 2px 2px red;
+            }
+            h2{
+                text-shadow: 2px 2px lightseagreen;
+            }
+            
+        </style>
+
+        <style>
+        * {
+            box-sizing: border-box;
+        }
+        .column {
+            float: left;
+            width: 33.33%;
+            padding: 5px;
+        }
+        .row::after {
+            content: "";
+            clear: both;
+            display: table;
+        
+        }
+        </style>
+    </head>
+    <body style="background-color:black">
+        <center><h2 style="background-color: violet;">Hii!</h2></center>
+        <center><h1 style="background-color: violet;"><i>This is ANCHAL KAPOOR<br>(Competitive Programmer)</h1></i><hr></center>
+        <center><img src="C:\Users\Lappy\Desktop\resume\ancphoto.jpg" alt="Photo" width="300" height="300"></center>
+        <center>
+        <p style="color: white;"><mark>Gmail:</mark>anchalkapoor1253@gmail.com</p>
+        <p style="color: white;"><mark>Phone No.:</mark>(+91)8318048428</p>
+        <p style="color: white;"><mark>Location:</mark>Kanpur,India</p>
+        <button onclick="document.location='https://www.linkedin.com/in/anchal-kapoor-0a9882227/'">Click to visit Linkedln Profile</button><br>
+        <button onclick="document.location='https://github.com/Anchalkap'"> Click to visit Github Profile</button>
+        </center>
+
+        <br>
+        <hr>
+        
+        <center><h1 style="background-color: violet;"><b>ABOUT ME:</h1></b></center>
+        <p style="color:tomato">Patience is not the ability to wait, but the ability to keep a good while waiting.
+        <br>I am a Final Year Student of B.TECH in Computer Science & Engineering </p>
+        <p style="color: tomato;">My skills are:<br><button>Python</button>  <button>C</button>
+        <button>C++</button>  <button>Machine Learning</button>  <button>Database Management System </button>
+        <button>Data Structures</button> <button>Problem Solving</button> <button>HTML</button> <button>CSS</button></p>
+        <p style="color: tomato;">Interests are:<br><button>Listening Music</button> <button>Learning new technologies</button>
+        <button> Travelling</button> <button>Reading Books</button></p>
+        <p style="color: tomato;">Languages:<br><button>English</button> <button>Hindi</button></p>
+        <br>
+        <hr>
+        
+        <center><h1 style="background-color: violet;"><b>EDUCATION:</h1></b></center>
+        <ul>
+            <li style="color: white; font-size:medium;"><b>B.TECH</b></li>
+            
+            <p style="color:aqua;"><i>-Pranveer Singh Institute Of Technology</i></p>
+            <p style="font-size: smaller; color:wheat;">(Computer Science & Engineering)</p>
+        </ul>
+        <ul>
+            <li style="color: white; font-size: medium;"><b>INTERMEDIATE</b></li>
+            <p style="color:aqua"><i>-Prabhat Senior Secondary Public School</i></p>
+        </ul>
+        <ul>
+            <li style="color: white; font-size: medium;"><b>HIGH-SCHOOL</b></li>
+            <p style="color:aqua"><i>-Prabhat Senior Secondary Public School</i></p>
+        </ul>
+        <br>
+        <hr>
+        
+        <center><h1 style="background-color: violet;"><b>PROJECTS:</b></h1></center>
+        <div class="row">
+            <div class="column">
+                <img src="C:\Users\Lappy\Desktop\imagecaptioing.jpg" alt="imagecaptioing" width="400" height="200">
+                <h4 style="color:springgreen"><b><i>VISION VERBALIZER</b></h4></i>
+                <p style="color: aqua;">-Ongoing Project</p>
+                <p style="color: beige;">-A<mark>Deep Learning</mark> project that would describe the content of an image in words</p>
+                <p style="color: beige;">-The dataset for image generation typically consists of pairs of images and corresponding captions.</p>
+                <p style="color: beige;">-Languages Used:<button>Python</button> <button>Machine Learning</button> <button>Deep Learning</button></p>
+                <br>
+              
+            </div>
+            <div class="column">
+                <img src="C:\Users\Lappy\Desktop\onlinevotingsystem.jpg" alt="Onlinevotingsystem" width="400" height="200">
+                <h4 style="color:springgreen"><b><i>ONLINE VOTING SYSTEM</b></h4></i>
+                <p style="color:beige;">-Based on <mark>Web Development</mark></p>
+                <p style="color: beige;">-This Voting system can be used for casting votes during the elections held in colleges etc. In this system the vote do not have to go in polling booth to cast their vote. They can use their Personal computer to cast their votes.</p>
+                <p style="color: beige;">-There is a database  which is maintained in which all the name of the voters with their complete information is stored </p>
+                <p style="color: beige;">-Languages Used:<button>HTML/CSS</button> <button>Python</button></p>
+                <br>
+              
+            </div>
+            <div class="column">
+                <img src="C:\Users\Lappy\Desktop\tourism.jpg" alt="imagecaptioing" width="400" height="200">
+                <h4 style="color:springgreen"><b><i>EARTH TREKERS</b></h4></i>
+                <p style="color: beige;">-Based on <mark>Web Development</mark> and <mark>Machine Learning</mark></p>
+                <p style="color: beige;">-It is a Intelligent Tourism Guide</p>
+                <p style="color: beige;">-Earth Trekers helps the users to know the details regarding any place ,monument etc.On the basis of rating which is given by the customers. They can easily know about the timings, opening days, entry feesetc about the place.</p>
+                <p style="color: beige;">-Languages Used:<button>HTML/CSS</button> <button>Machine Learning Algorithms</button></p>
+                <br>
+            </div>
+
+        </div>
+        <br>
+        <hr>
+        
+          
+        <center><h1 style="background-color: violet;"><b>ACHIEVEMENTS:</b></h1></center>
+        <div class="row">
+            <div class="column">
+                <img src="C:\Users\Lappy\Desktop\star5.jpg" alt="5star" width="400" height="100">
+                <p style="color: aqua;">-HACKERRANK</p>
+                <p style="color: aqua;">-(Python Language & Problem Solving)</p>
+            </div>
+            <div class="column">
+                <img src="C:\Users\Lappy\Desktop\4star.jpg" alt="4star" width="400" height="100">
+                <p style="color: aqua;">-HACKERRANK</p>
+                <p style="color: aqua;">-(C Language)</p>
+              
+            </div>
+            <div class="column">
+                <a href="https://www.hackerrank.com/certificates/9002550b7b0e" target="_blank">
+                <img src="C:\Users\Lappy\Desktop\hackerrankpython.png" alt="pythoncertificate" width="400" height="300"></a>
+                <br>
+                <button>You can visit the certificate by clicking on picture</button>
+                <p style="color: aqua;">-Python Basics HACKERRANK Certificate</p>
+              
+            </div>
+            <div class="column">
+                <a href="https://www.hackerrank.com/certificates/a78d8331a557" target="_blank">
+                <img src="C:\Users\Lappy\Desktop\sqlbasic.png" alt="sqlcertificate" width="400" height="300"></a>
+                <br>
+                <button>You can visit the certificate by clicking on picture</button>
+                <p style="color: aqua;">-SQL Basics HACKERRANK Certificate</p>
+              
+            </div>
+
+            <div class="column">
+                <a href="https://drive.google.com/file/d/1jyS_F4HuzQIY0CkUaEwWahSOt7r6h8eh/view?usp=drive_link" target="_blank">
+                <img src="C:\Users\Lappy\Desktop\codekaze.png" alt="codekazecertificate" width="300" height="300"></a>
+                <br>
+                <button>You can visit the certificate by clicking on picture</button>
+                <p style="color: aqua;">-Cleared Round1 in CODEKAZE and secured 5279 All India Rank in round2</p>
+            </div>
+        </div>
+        <ul>
+            <li style="color: white;"><p style="color: aqua;">-PARTICIPATION Certificates in many events such as Hero Campus 
+            Challenge Season8, Codegoda2023 etc. <mark>(UNSTOP)</mark></p></li>
+        </ul>
+
+        <ul>
+            <li style="color: white;"><p style="color: aqua;">-50days Badge in LEETCODE
+            <mark>(Problem Solver)</mark></p></li>
+            <a href="https://leetcode.com/Anch02/" target="_blank">Visit</a>
+        </ul>
+
+        <ul>
+            <li style="color: white;"><p style="color: aqua;">-Bronze Badge In CODECHEF
+            <mark>(Problem Solver)</mark></p></li>
+            <a href="https://www.codechef.com/users/anchal043 " target="_blank">Visit</a>
+        </ul>
+
+        <ul>
+            <li style="color: white;"><p style="color: aqua;">-Solved 400+ Problems on various Online Platforms
+            (Such Platforms are LeetCode ,CodeChef , Hackerrank , CodeForces, GeeksForGeeks)</p></li>
+        </ul>
+        <br>
+        <hr>
+
+        <center><h1 style="background-color: violet;"><b>CERTIFIED COURSES:</b></h1></center>
+        <div class="column">
+            <a href="https://drive.google.com/file/d/1eXfm-69dtvPBIq6bFMOOW3EuUtUanHk1/view?usp=drive_link" target="_blank">
+            <img src="C:\Users\Lappy\Desktop\certificates\skillup.png" alt="skillup" width="400" height="200"></a>
+            <br>
+            <button>You can visit the certificate by clicking on picture</button>
+            <p style="color: aqua;">-Python For Beginners
+            <mark>(By SkillUp)</mark></p>
+            <br>
+        </div>
+
+        <div class="column">
+            <a href="https://drive.google.com/file/d/1Cu2xYK2bBETL-l48w3PclVW9vW03bScR/view?usp=drive_link" target="_blank">
+            <img src="C:\Users\Lappy\Desktop\fundamentals.png" alt="infosysspringboard" width="400" height="200"></a>
+            <br>
+            <button>You can visit the certificate by clicking on picture</button>
+            <p style="color: aqua;">-Fundamentals in Python Programming
+            <mark>(By Infosys Springboard)</mark></p>
+            <br>
+
+        </div>
+
+        <div class="column">
+            <a href="https://drive.google.com/file/d/1M7tRotdTxFg4xSyiCDzQ66CyW6dLVm8A/view?usp=drive_link" target="_blank">
+            <img src="C:\Users\Lappy\Desktop\certificates\Machinelearning.jpg" alt="Machinelearning" width="400" height="200"></a>
+            <br>
+            <button>You can visit the certificate by clicking on picture</button>
+            <p style="color: aqua;">-Introduction to Machine Learning
+            <mark>(By Great Learning)</mark></p>
+            <br>
+        </div>
+
+        <center><a href="https://drive.google.com/file/d/1SsZ2jo6pzpBpa4KrHdqhccTe-jfg9Lx7/view?usp=drive_link" target="_blank">
+        <img src="C:\Users\Lappy\Desktop\certificates\Introduction to datascience.jpg" alt="Machinelearning" width="400" height="200"></a>
+        <br>
+        <button>You can visit the certificate by clicking on picture</button>
+        <p style="color: aqua;">-Introduction to DataScience
+        <mark>(Great Learning)</mark></p>
+        </center>
+        <br>
+        <hr>
+        
+        <center><h1 style="color:white">THANK YOU!!</h1></center>
+    </body>
+</html>
+
